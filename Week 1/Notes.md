@@ -5,9 +5,8 @@
 - [Artificial Intelligence](#V1)
 - [Machine Learning](#V2)
 - [Machine Learning Algorithm](#V3)
-- [Videos4](#V4)
-- [Videos5](#V5)
-- [Videos6](#V6)
+- [Machine Learning Algorithm.2](#V4)
+
 
 ---
 
@@ -38,14 +37,5 @@ The problems of AI can be broken down into **Supervised Learning (labelled data)
 ---
 
 
-## Machine Learning Algorithm
+## Machine Learning Algorithm.2
 There are many algorithm used in the world, they are simple and compiled mathematical functions <em>called mathematical model</em> but yet can do powerful jobs. One of the most common one used in this course is **K-Nearest Neighbours (KNN)** in which the output is classified based on similarity. Another more light-weight and advance algoritm is known as **Support Vector Machine (SVM)**. Other models include **Decision Tree Forecast**. __Optimization__ is a trial and error process to fine-tune the optimal parameter that gives the best accuracy and minimize the loss function to the biggest extend. s
-
----
-
-## Videos 5
-
----
-
-
-## Videos 6
